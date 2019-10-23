@@ -1,5 +1,4 @@
 [build]
-  base = "."
   command = "hugo --gc --themesDir themes/bloblog -b $URL"
   publish = "public"
 
