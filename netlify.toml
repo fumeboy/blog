@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify --themesDir themes/bloblog -b $URL"
+command = "hugo --gc --minify --themesDir themes -b $URL"
 
 [context.production.environment]
 HUGO_ENV = "production"
