@@ -1,22 +1,22 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify"
+command = "hugo --gc --minify --themesDir themes/bloblog -b $URL"
 
 [context.production.environment]
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.split1]
-command = "hugo --gc --minify --enableGitInfo"
+command = "hugo --gc --minify --enableGitInfo --themesDir themes/bloblog -b $URL"
 
 [context.split1.environment]
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL --themesDir themes/bloblog -b $URL"
 
 [context.branch-deploy]
-command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --minify -b $DEPLOY_PRIME_URL --themesDir themes/bloblog -b $URL"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
