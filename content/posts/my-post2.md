@@ -1,5 +1,5 @@
 ---
-title: "提问的智慧"
+title: "提问的智慧 How To Ask Questions The Smart Way"
 date: 2019-10-19T19:29:17+08:00
 draft: true
 ---

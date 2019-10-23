@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c941695-a415-43e8-bf2f-ab34c564340d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hugo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/my-post2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/my-post3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/my-post4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/my-post5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/bloblog/layouts/_default/baseof.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/bloblog/layouts/_default/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/bloblog/layouts/_default/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/example/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/example/hidden.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/example/table-of-contents/3rd/4th/5th.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/example/table-of-contents/3rd/4th/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/example/table-of-contents/3rd/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/example/table-of-contents/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/example/table-of-contents/with-toc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/example/table-of-contents/without-toc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/shortcodes/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/shortcodes/buttons.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/shortcodes/columns.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/shortcodes/expand.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/shortcodes/hints.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/shortcodes/katex.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/shortcodes/mermaid.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/shortcodes/tabs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/menu/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/creating-a-new-theme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/goisforlovers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/hugoisforlovers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/migrate-from-jekyll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/my-first-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/my-first-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/search-data.js_da973b2166501f614a67d55884e62fdb.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/search-data.js_da973b2166501f614a67d55884e62fdb.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/search-data.js_da973b2166501f614a67d55884e62fdb.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/search-data.js_da973b2166501f614a67d55884e62fdb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/search.js_db9e329433ffca0798ed12c88043b3b3.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/search.js_db9e329433ffca0798ed12c88043b3b3.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/search.js_db9e329433ffca0798ed12c88043b3b3.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/search.js_db9e329433ffca0798ed12c88043b3b3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/book" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-steam-theme" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/posts/my-first-post.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1064">
+                <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/posts/my-post2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="336">
+                <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitmodules">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>justifyContent</find>
+      <find>relatedPosts</find>
+      <find>comment</find>
+      <find>themeColor</find>
+      <find>494f5c</find>
+      <find>home-title</find>
+      <find>#2c3e50</find>
+      <find>#e8eef2</find>
+      <find>shadow</find>
+      <find>list</find>
+      <find>theme</find>
+      <find>rgba(128, 200, 191, 0.15)</find>
+      <find>sub</find>
+      <find>hover</find>
+      <find>content</find>
+      <find>post-i</find>
+      <find>site-header</find>
+      <find>site-nav</find>
+      <find>scr</find>
+      <find>items</find>
+      <find>displ</find>
+      <find>animation-name</find>
+      <find>animation</find>
+      <find>animationName</find>
+      <find>z-in</find>
+      <find>toggleMobileMenu</find>
+      <find>butt</find>
+      <find>menu</find>
+      <find>default</find>
+      <find>anal</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$green-background</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/themes/bloblog/layouts</dir>
+      <dir>$PROJECT_DIR$/themes/bloblog</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/themes/bloblog/layouts/posts/single.html" />
+        <option value="$PROJECT_DIR$/themes/bloblog/layouts/_default/single.html" />
+        <option value="$PROJECT_DIR$/content/posts/my-first-post.md" />
+        <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/content/posts/my-post2.md" />
+        <option value="$PROJECT_DIR$/themes/bloblog/assets/scss/_predefined.scss" />
+        <option value="$PROJECT_DIR$/themes/bloblog/assets/scss/_animate.scss" />
+        <option value="$PROJECT_DIR$/themes/bloblog/assets/js/main.js" />
+        <option value="$PROJECT_DIR$/themes/bloblog/assets/scss/style.scss" />
+        <option value="$PROJECT_DIR$/themes/bloblog/README.md" />
+        <option value="$PROJECT_DIR$/themes/bloblog/layouts/partials/social-icons.html" />
+        <option value="$PROJECT_DIR$/themes/bloblog/layouts/_default/baseof.html" />
+        <option value="$PROJECT_DIR$/.gitmodules" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hugo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/posts" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/posts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c941695-a415-43e8-bf2f-ab34c564340d" name="Default Changelist" comment="" />
+      <created>1571744533073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571744533073</updated>
+      <workItem from="1571744534615" duration="122000" />
+      <workItem from="1571744670577" duration="7427000" />
+      <workItem from="1571755833316" duration="503000" />
+      <workItem from="1571803966927" duration="504000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8556000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973601" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32920536" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/images/hermit.png" />
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/netlify.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/i18n/en.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/partials/comments.html" />
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/posts/rss.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/assets/scss/_normalize.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/assets/scss/_syntax.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/assets/js/code-copy.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/assets/scss/_predefined.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="7" selection-start-line="8" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/assets/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8736">
+          <caret line="312" column="27" selection-start-line="312" selection-start-column="27" selection-end-line="312" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/my-post3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/my-post4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/my-post5.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/assets/scss/_animate.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5012">
+          <caret line="179" column="33" lean-forward="true" selection-start-line="179" selection-start-column="33" selection-end-line="179" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1624">
+          <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/partials/analytics.html" />
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/partials/svg.html" />
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/_default/list.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/partials/favicons.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/partials/footer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/partials/social-icons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="86" selection-start-line="1" selection-start-column="86" selection-end-line="1" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/partials/structured-data.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/_default/baseof.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/posts/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/my-first-post.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1064">
+            <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/my-post2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="336">
+            <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

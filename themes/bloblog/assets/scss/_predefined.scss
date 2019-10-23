@@ -1,0 +1,37 @@
+// Colors
+//
+$text: #3B3E48;
+$white: #fff;
+$not-really-white: rgb(238, 238, 238);
+$highlight-grey: #7d828a;
+$blue: #0099e3;
+$green: #80c8bf;
+$orange: #ff9531;
+$orange-background: rgba(255, 149, 49, 0.4);
+$green-background: rgba(128, 200, 191, 0.15);
+
+
+// Fonts
+//
+$fonts: "Trebuchet MS", Verdana, "Verdana Ref", "Segoe UI", Candara, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+$code-fonts: Consolas, "Andale Mono WT", "Andale Mono", Menlo, Monaco, "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, "YaHei Consolas Hybrid", monospace, "Segoe UI Emoji", "PingFang SC", "Microsoft YaHei";
+
+// Mixins
+//
+@mixin dimmed {
+  opacity: .6;
+}
+
+@mixin aTag {
+  a {
+    word-wrap: break-word;
+    border: none;
+    box-shadow: inset 0 -4px 0 rgba(128, 200, 191, 0.15);
+    transition-property: box-shadow;
+    transition-duration: .1s;
+
+    &:hover {
+      box-shadow: inset 0 -1em 0 rgba(128, 200, 191, 0.15);
+    }
+  }
+}

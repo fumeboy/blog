@@ -1,51 +1,78 @@
-# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/example
+baseURL = "https://example.com"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh"
+title = "bloblog"
+theme = "bloblog"
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
 
-baseURL = 'https://example.com/'
-title = 'fumeboy'
-theme = 'book'
-disableKinds = ['taxonomy', 'taxonomyTerm']
-# themesDir = '../..'
+hasCJKLanguage = true
+# 如果 Chinese/Japanese/Korean 是这个博客的主要语言, 启用这个选项好让负责字数统计的程序可以正确的计数.
 
-# Book configuration
-disablePathToLower = true
-enableGitInfo = true
+rssLimit = 10
+# RSS feed 中条目的最大显示数量.
 
-# Code highlight
-# pygmentsStyle = 'monokailight'
-pygmentsCodeFences = true
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+# 这条信息只会被 RSS template 使用.
+
+enableEmoji = true
+# 在你的博客里启用 emoji 表情，表情的代码可以在这里查阅 - https://www.webfx.com/tools/emoji-cheat-sheet/
+# 比如 "你好 :heart: 世界"，其中 ":heart:" 会被翻译成 emoji 中的 爱心
+
+[author]
+  name = "作者的名字"
+
+[blackfriday]
+  # hrefTargetBlank = true
+  # noreferrerLinks = true
+  # nofollowLinks = true
+
+[taxonomies]
+  tag = "tags"
 
 [params]
-  # (Optional, default 6) Set how many table of contents levels to be showed on page.
-  # Use false to hide ToC, note that 0 will default to 6 (https://gohugo.io/functions/default/)
-  # You can also specify this parameter per page in front matter
-  BookToC = 3
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
 
-  # (Optional, default none) Set the path to a logo for the book. If the logo is
-  # /static/logo.png then the path would be logo.png
-  # BookLogo = 'logo.png'
+  # Metadata mostly used in document's head
+  # description = ""
+  # images = [""]
+  themeColor = "#494f5c"
 
-  # (Optional, default none) Set leaf bundle to render as side menu
-  # When not specified file structure and weights will be used
-  # BookMenuBundle = '/menu'
+  homeSubtitle = "A minimal and fast theme for Hugo."
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  # bgImg = ""  # Homepage background-image URL
 
-  # (Optional, default docs) Specify section of content to render as menu
-  # You can also set value to '*' to render all sections to menu
-  BookSection = 'docs'
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  # gitUrl = "https://github.com/username/repository/commit/"
 
-  # Set source repository location.
-  # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/alex-shpak/hugo-book'
+  code_copy_button = true # Turn on/off the code-copy-button for code-fields
+  
+  # Add custom css
+  # customCSS = ["css/foo.css", "css/bar.css"]
 
-  # Enable "Edit this page" links for 'doc' page type.
-  # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
-  # Path must point to 'content' directory of repo.
-  BookEditPath = 'edit/master/exampleSite/content'
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/"
 
-  # Configure the date format used on the pages
-  # - In git information
-  # - In blog posts
-  BookDateFormat = 'Jan 2, 2006'
+  [[params.social]]
+    name = "instagram"
+    url = "https://instagram.com/"
 
-  # (Optional, default true) Enables search function with lunr.js, 
-  # Index is built on fly, therefore it might slowdown your website.
-  BookSearch = true
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about-hugo/"
+    weight = 20
