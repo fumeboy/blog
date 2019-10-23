@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c941695-a415-43e8-bf2f-ab34c564340d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/hugo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/my-post2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/my-post3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/my-post4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/my-post5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/bloblog/layouts/_default/baseof.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/bloblog/layouts/_default/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/bloblog/layouts/_default/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/example/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/example/hidden.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/example/table-of-contents/3rd/4th/5th.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/example/table-of-contents/3rd/4th/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/example/table-of-contents/3rd/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/example/table-of-contents/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/example/table-of-contents/with-toc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/example/table-of-contents/without-toc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/shortcodes/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/shortcodes/buttons.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/shortcodes/columns.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/shortcodes/expand.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/shortcodes/hints.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/shortcodes/katex.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/shortcodes/mermaid.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/shortcodes/tabs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/menu/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/creating-a-new-theme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/goisforlovers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/hugoisforlovers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/migrate-from-jekyll.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/my-first-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/my-first-post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/search-data.js_da973b2166501f614a67d55884e62fdb.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/search-data.js_da973b2166501f614a67d55884e62fdb.content" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/search-data.js_da973b2166501f614a67d55884e62fdb.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/search-data.js_da973b2166501f614a67d55884e62fdb.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/search.js_db9e329433ffca0798ed12c88043b3b3.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/search.js_db9e329433ffca0798ed12c88043b3b3.content" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/search.js_db9e329433ffca0798ed12c88043b3b3.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/search.js_db9e329433ffca0798ed12c88043b3b3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ananke" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/book" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hugo-steam-theme" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -91,11 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="7" selection-start-column="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/netlify.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -144,6 +111,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -163,6 +131,7 @@
         <option value="$PROJECT_DIR$/themes/bloblog/layouts/_default/baseof.html" />
         <option value="$PROJECT_DIR$/.gitmodules" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/netlify.toml" />
       </list>
     </option>
   </component>
@@ -232,12 +201,12 @@
       <workItem from="1571744534615" duration="122000" />
       <workItem from="1571744670577" duration="7427000" />
       <workItem from="1571755833316" duration="503000" />
-      <workItem from="1571803966927" duration="504000" />
+      <workItem from="1571803966927" duration="1016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8556000" />
+    <option name="totallyTimeSpent" value="9068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -446,6 +415,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netlify.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>

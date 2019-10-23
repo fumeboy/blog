@@ -1,0 +1,13 @@
+[build]
+  base = "."
+  command = "hugo --gc --themesDir themes/bloblog -b $URL"
+  publish = "public"
+
+[build.environment]
+  HUGO_THEME = "bloblog"
+
+[context.deploy-preview]
+  command = "hugo --gc --themesDir themes/bloblog -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy]
+  command = "hugo --gc --themesDir themes/bloblog -b $DEPLOY_PRIME_URL"
