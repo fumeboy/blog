@@ -1,7 +1,7 @@
 baseURL = "https://fumeboy.netlify.com"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh"
-title = "bloblog"
+title = "blog theme"
 theme = "bloblog"
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
@@ -74,5 +74,5 @@ enableEmoji = true
 
   [[menu.main]]
     name = "About"
-    url = "about-hugo/"
+    url = "about_me/"
     weight = 20

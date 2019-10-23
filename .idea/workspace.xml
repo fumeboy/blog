@@ -2,52 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c941695-a415-43e8-bf2f-ab34c564340d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/archetypes/default.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/archetypes/posts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/assets/js/code-copy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/assets/scss/_animate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/assets/scss/_normalize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/assets/scss/_predefined.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/assets/scss/_syntax.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/assets/scss/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/i18n/en.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/i18n/it.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/i18n/zh-hans.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/layouts/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/layouts/_default/baseof.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/layouts/_default/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/layouts/_default/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/layouts/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/layouts/partials/favicons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/layouts/partials/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/layouts/partials/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/layouts/partials/menu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/layouts/partials/related-posts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/layouts/partials/social-icons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/layouts/partials/structured-data.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/layouts/posts/rss.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/layouts/posts/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/resources/_gen/assets/js/js/bundle.js_d11fe7b62c27961c87ecd0f2490357b9.content" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/resources/_gen/assets/js/js/bundle.js_d11fe7b62c27961c87ecd0f2490357b9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/resources/_gen/assets/scss/scss/style.scss_c16d144eee185fbddd582cd5e25a4fae.content" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/resources/_gen/assets/scss/scss/style.scss_c16d144eee185fbddd582cd5e25a4fae.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/static/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/static/android-chrome-384x384.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/static/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/static/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/static/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/static/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/static/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/static/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bloblog/static/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about_me.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -73,6 +29,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/posts/post2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/posts/my-post5.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/posts/my-post2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -84,9 +60,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitmodules">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/bloblog/assets/scss/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="312" column="27" selection-start-line="312" selection-start-column="27" selection-end-line="312" selection-end-column="27" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -107,11 +92,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1734">
-              <caret column="38" selection-start-column="38" selection-end-column="38" />
+            <state relative-caret-position="84">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/about_me.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="140">
+                <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -178,9 +175,10 @@
         <option value="$PROJECT_DIR$/themes/bloblog/layouts/partials/social-icons.html" />
         <option value="$PROJECT_DIR$/themes/bloblog/layouts/_default/baseof.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/netlify.toml" />
         <option value="$PROJECT_DIR$/.gitmodules" />
+        <option value="$PROJECT_DIR$/content/about_me.md" />
+        <option value="$PROJECT_DIR$/config.toml" />
       </list>
     </option>
   </component>
@@ -207,7 +205,18 @@
             <path>
               <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hugo" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hugo" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bloblog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,12 +264,12 @@
       <workItem from="1571744534615" duration="122000" />
       <workItem from="1571744670577" duration="7427000" />
       <workItem from="1571755833316" duration="503000" />
-      <workItem from="1571803966927" duration="2280000" />
+      <workItem from="1571803966927" duration="2549000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10332000" />
+    <option name="totallyTimeSpent" value="10601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -324,13 +333,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/bloblog/assets/scss/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8736">
-          <caret line="312" column="27" selection-start-line="312" selection-start-column="27" selection-end-line="312" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/posts/my-post3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -340,14 +342,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/posts/my-post4.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/posts/my-post5.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -428,16 +422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/posts/my-first-post.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1064">
-            <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/posts/my-post2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -455,15 +439,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.toml">
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/netlify.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/assets/scss/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1734">
-          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        <state relative-caret-position="186">
+          <caret line="312" column="27" selection-start-line="312" selection-start-column="27" selection-end-line="312" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/bloblog/netlify.toml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/content/posts/my-first-post.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1064">
+            <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/post2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/my-post5.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/about_me.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/netlify.toml">
       <provider selected="true" editor-type-id="text-editor">
@@ -472,8 +495,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitmodules">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
