@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c941695-a415-43e8-bf2f-ab34c564340d" name="Default Changelist" comment="" />
+    <list default="true" id="1c941695-a415-43e8-bf2f-ab34c564340d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/themes/bloblog/layouts/posts/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bloblog/layouts/posts/single.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/posts/How-To-Ask-Questions-The-Smart-Way.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -21,6 +23,15 @@
                 <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/posts/single.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="91" column="10" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -84,15 +95,6 @@
                 <caret line="6" column="31" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="31" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netlify.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -168,7 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/bloblog/layouts/posts/single.html" />
         <option value="$PROJECT_DIR$/themes/bloblog/layouts/_default/single.html" />
         <option value="$PROJECT_DIR$/content/posts/my-first-post.md" />
         <option value="$PROJECT_DIR$/themes/bloblog/assets/scss/_predefined.scss" />
@@ -187,6 +188,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/content/posts/How-To-Ask-Questions-The-Smart-Way.md" />
+        <option value="$PROJECT_DIR$/themes/bloblog/layouts/posts/single.html" />
       </list>
     </option>
   </component>
@@ -213,18 +215,28 @@
             <path>
               <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bloblog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hugo" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bloblog" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hugo" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bloblog" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,15 +284,16 @@
       <workItem from="1571744534615" duration="122000" />
       <workItem from="1571744670577" duration="7427000" />
       <workItem from="1571755833316" duration="503000" />
-      <workItem from="1571803966927" duration="6084000" />
+      <workItem from="1571803966927" duration="6258000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14136000" />
+    <option name="totallyTimeSpent" value="14310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973601" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -406,13 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/posts/single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/bloblog/netlify.toml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -534,6 +540,13 @@
             <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/posts/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="91" column="10" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="10" />
         </state>
       </provider>
     </entry>
