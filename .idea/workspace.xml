@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c941695-a415-43e8-bf2f-ab34c564340d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/posts/study-program-deliberately.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about_me.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about_me.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/my-first-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/How-To-Ask-Questions-The-Smart-Way.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/my-post2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/my-post3.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/How-to-use-GitHub-efficiently.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/my-post4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/my-post5.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/post2.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/posts/How-To-Ask-Questions-The-Smart-Way.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -32,6 +23,15 @@
                 <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -78,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1566">
-              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="402">
+              <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -159,15 +159,15 @@
         <option value="$PROJECT_DIR$/themes/bloblog/README.md" />
         <option value="$PROJECT_DIR$/themes/bloblog/layouts/partials/social-icons.html" />
         <option value="$PROJECT_DIR$/themes/bloblog/layouts/_default/baseof.html" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/netlify.toml" />
         <option value="$PROJECT_DIR$/.gitmodules" />
         <option value="$PROJECT_DIR$/content/posts/my-post4.md" />
-        <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/content/posts/my-post2.md" />
         <option value="$PROJECT_DIR$/content/posts/my-post3.md" />
         <option value="$PROJECT_DIR$/content/about_me.md" />
         <option value="$PROJECT_DIR$/content/posts/How-To-Ask-Questions-The-Smart-Way.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/config.toml" />
       </list>
     </option>
   </component>
@@ -190,17 +190,6 @@
             <path>
               <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
@@ -253,12 +242,12 @@
       <workItem from="1571744534615" duration="122000" />
       <workItem from="1571744670577" duration="7427000" />
       <workItem from="1571755833316" duration="503000" />
-      <workItem from="1571803966927" duration="3896000" />
+      <workItem from="1571803966927" duration="4113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11948000" />
+    <option name="totallyTimeSpent" value="12165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -395,13 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/bloblog/netlify.toml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -448,13 +430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1566">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/about_me.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -492,6 +467,20 @@
             <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
         </state>
       </provider>
     </entry>
