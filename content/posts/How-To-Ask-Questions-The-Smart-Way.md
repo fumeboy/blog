@@ -2,6 +2,11 @@
 title: "提问的智慧"
 date: 2019-10-19T19:29:17+08:00
 draft: false
+images: 
+  - https://cn.bing.com/th?id=OHR.ChurchillPolarBear_ZH-CN6443232536_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4
+tags: 
+  - Demo
+  - Image
 ---
 
 # How To Ask Questions The Smart Way
