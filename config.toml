@@ -1,5 +1,5 @@
 baseURL = "https://fumeboy.netlify.com"
-languageCode = "zh-cn"
+languageCode = "zh-hans"
 defaultContentLanguage = "zh"
 title = "blog title"
 theme = "bloblog"
