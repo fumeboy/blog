@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c941695-a415-43e8-bf2f-ab34c564340d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/posts/step2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/step3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/step4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/step0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/step6.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/js/bundle.js_d11fe7b62c27961c87ecd0f2490357b9.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/bundle.js_d11fe7b62c27961c87ecd0f2490357b9.content" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/js/bundle.js_d11fe7b62c27961c87ecd0f2490357b9.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/bundle.js_d11fe7b62c27961c87ecd0f2490357b9.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_c16d144eee185fbddd582cd5e25a4fae.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_c16d144eee185fbddd582cd5e25a4fae.content" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_c16d144eee185fbddd582cd5e25a4fae.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_c16d144eee185fbddd582cd5e25a4fae.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/bloblog" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bloblog" afterDir="false" />
@@ -49,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/posts/step4.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -74,33 +70,53 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/step2/5.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/content/posts/step0.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="392">
+                <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="21" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/step2/4.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/content/posts/step6.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="448">
+                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/step2/3.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/step2/13.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/step2/14.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/content/about_me.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="140">
+                <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/step2/11.png">
           <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1932">
+              <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -167,18 +183,21 @@
         <option value="$PROJECT_DIR$/content/posts/my-post4.md" />
         <option value="$PROJECT_DIR$/content/posts/my-post2.md" />
         <option value="$PROJECT_DIR$/content/posts/my-post3.md" />
-        <option value="$PROJECT_DIR$/content/about_me.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/themes/bloblog/layouts/posts/single.html" />
         <option value="$PROJECT_DIR$/content/posts/How-To-Ask-Questions-The-Smart-Way.md" />
         <option value="$PROJECT_DIR$/content/posts/first-step.md" />
         <option value="$PROJECT_DIR$/content/posts/step-1_2.md" />
         <option value="$PROJECT_DIR$/content/posts/step-4.md" />
-        <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/content/posts/step3.md" />
         <option value="$PROJECT_DIR$/content/posts/step2.md" />
         <option value="$PROJECT_DIR$/content/posts/step1.md" />
         <option value="$PROJECT_DIR$/content/posts/step4.md" />
+        <option value="$PROJECT_DIR$/content/about_me.md" />
+        <option value="$PROJECT_DIR$/content/posts/index.md" />
+        <option value="$PROJECT_DIR$/content/posts/step0.md" />
+        <option value="$PROJECT_DIR$/content/posts/step6.md" />
+        <option value="$PROJECT_DIR$/config.toml" />
       </list>
     </option>
   </component>
@@ -201,28 +220,6 @@
             <path>
               <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hugo" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="step3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -271,18 +268,17 @@
       <workItem from="1571744670577" duration="7427000" />
       <workItem from="1571755833316" duration="503000" />
       <workItem from="1571803966927" duration="8141000" />
-      <workItem from="1571926764159" duration="11187000" />
+      <workItem from="1571926764159" duration="17571000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27380000" />
+    <option name="totallyTimeSpent" value="33764000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973601" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973601" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -294,7 +290,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32920536" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32920536" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -305,17 +301,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/partials/structured-data.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/bloblog/layouts/_default/baseof.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/bloblog/LICENSE" />
     <entry file="file://$PROJECT_DIR$/themes/bloblog/netlify.toml" />
     <entry file="file://$PROJECT_DIR$/.gitmodules">
       <provider selected="true" editor-type-id="text-editor" />
@@ -395,16 +380,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/about_me.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="140">
-            <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/posts/How-To-Ask-Questions-The-Smart-Way.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -460,13 +435,6 @@
     <entry file="file://$PROJECT_DIR$/static/step4/17.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/step2/6.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -503,16 +471,6 @@
     <entry file="file://$PROJECT_DIR$/static/step2/11.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/posts/step3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="84">
-            <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/posts/step2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -540,6 +498,60 @@
             <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/about_me.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/step0.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="392">
+            <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syntax.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="24" column="19" lean-forward="true" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/step3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="84">
+            <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/step6.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="448">
+            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
         </state>
       </provider>
     </entry>

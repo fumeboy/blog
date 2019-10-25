@@ -3,6 +3,8 @@ languageCode = "zh-hans"
 defaultContentLanguage = "zh"
 title = "blog title"
 theme = "bloblog"
+
+# 这里的 pygments 设置用于代码的高亮处理
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
 
@@ -63,11 +65,6 @@ enableEmoji = true
 [menu]
 
   [[menu.main]]
-    name = "Posts"
-    url = "posts/"
-    weight = 10
-
-  [[menu.main]]
     name = "About"
     url = "about_me/"
-    weight = 20
+    weight = 10
