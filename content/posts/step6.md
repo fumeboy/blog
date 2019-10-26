@@ -1,11 +1,13 @@
 ---
-title: "使用 markdown 语法撰写文章"
-date: 2019-10-24T22:23:18+08:00
+title: "使用 markdown 语法为 hugo 撰写文章"
+date: 2019-10-24T22:23:53+08:00
 draft: false
-toc: false
+toc: true
 tags: 
   - markdown
 ---
+
+# 认识 markdown
 
 首先：你可以在 https://www.runoob.com/markdown/md-tutorial.html 看到最适合菜鸟的 markdown 教程
 
@@ -71,3 +73,7 @@ int main(){
 ## 我觉得 markdown 的教程实在不用重复总结，所以
 
 还是请你跟随 runoob 的教程来学习： https://www.runoob.com/markdown/md-tutorial.html
+
+# 在 hugo 中写文章，还需要一些别的功夫
+
+打开我们本地刚刚新建的 blog 文件夹，它其中 

@@ -1,8 +1,8 @@
 baseURL = "https://fumeboy.netlify.com"
 languageCode = "zh-hans"
-defaultContentLanguage = "zh"
-title = "blog title"
-theme = "bloblog"
+defaultContentLanguage = "zh-hans"
+title = "fumeboy"
+theme = "hermit"
 
 # 这里的 pygments 设置用于代码的高亮处理
 pygmentsCodefences  = true
@@ -22,7 +22,7 @@ enableEmoji = true
 # 比如 "你好 :heart: 世界"，其中 ":heart:" 会被翻译成 emoji 中的 爱心
 
 [author]
-  name = "作者的名字"
+  name = "fumeboy"
 
 [blackfriday]
   # hrefTargetBlank = true

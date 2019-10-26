@@ -1,3 +1,6 @@
 [submodule "themes/bloblog"]
 	path = themes/bloblog
 	url = https://github.com/fumeboy/bloblog.git
+[submodule "themes/example_blog_theme"]
+	path = themes/example_blog_theme
+	url = https://github.com/fumeboy/example_blog_theme

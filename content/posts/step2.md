@@ -1,6 +1,6 @@
 ---
 title: "git 的安装"
-date: 2019-10-24T22:23:18+08:00
+date: 2019-10-24T22:23:57+08:00
 draft: false
 toc: true
 tags: 
