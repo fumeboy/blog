@@ -2,102 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c941695-a415-43e8-bf2f-ab34c564340d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/posts/hello_world.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/step5.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/step3.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/step3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/step4.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/step4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/step6.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/step6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/js/bundle.js_d11fe7b62c27961c87ecd0f2490357b9.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/bundle.js_d11fe7b62c27961c87ecd0f2490357b9.content" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/js/bundle.js_d11fe7b62c27961c87ecd0f2490357b9.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/bundle.js_d11fe7b62c27961c87ecd0f2490357b9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_c16d144eee185fbddd582cd5e25a4fae.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_c16d144eee185fbddd582cd5e25a4fae.content" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_c16d144eee185fbddd582cd5e25a4fae.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_c16d144eee185fbddd582cd5e25a4fae.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step3/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step6/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step3/16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step3/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step6/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step3/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step6/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step3/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step6/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step3/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step6/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/step4/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/step5/9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example_blog_theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/example_blog_theme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/archetypes/default.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/archetypes/posts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/assets/js/code-copy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/assets/scss/_animate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/assets/scss/_normalize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/assets/scss/_predefined.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/assets/scss/_syntax.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/assets/scss/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/exampleSite/config.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/exampleSite/content/about-hugo.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/exampleSite/content/posts/creating-a-new-theme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/exampleSite/content/posts/goisforlovers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/exampleSite/content/posts/hugoisforlovers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/exampleSite/content/posts/migrate-from-jekyll.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/exampleSite/content/posts/post-with-featured-image.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/exampleSite/content/posts/the-figure-shortcode.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/exampleSite/content/posts/typography.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/i18n/en.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/i18n/it.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/i18n/zh-hans.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/images/hermit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/images/screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/images/tn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/_default/baseof.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/_default/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/_default/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/partials/analytics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/partials/comments.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/partials/favicons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/partials/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/partials/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/partials/menu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/partials/related-posts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/partials/social-icons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/partials/structured-data.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/partials/svg.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/posts/rss.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/layouts/posts/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/resources/_gen/assets/js/js/bundle.js_d11fe7b62c27961c87ecd0f2490357b9.content" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/resources/_gen/assets/js/js/bundle.js_d11fe7b62c27961c87ecd0f2490357b9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/resources/_gen/assets/scss/scss/style.scss_c16d144eee185fbddd582cd5e25a4fae.content" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/resources/_gen/assets/scss/scss/style.scss_c16d144eee185fbddd582cd5e25a4fae.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/static/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/static/android-chrome-384x384.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/static/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/static/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/static/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/static/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/static/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/static/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/static/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hermit/theme.toml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -378,18 +283,17 @@
       <workItem from="1571803966927" duration="8141000" />
       <workItem from="1571926764159" duration="17884000" />
       <workItem from="1572056984962" duration="7025000" />
-      <workItem from="1572078997536" duration="8410000" />
+      <workItem from="1572078997536" duration="8899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49512000" />
+    <option name="totallyTimeSpent" value="50001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973601" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973601" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -401,7 +305,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32920536" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32920536" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
