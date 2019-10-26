@@ -1,79 +1,64 @@
 ---
-title: "使用 markdown 语法为 hugo 撰写文章"
+title: "把本地的博客项目上传到 GitHub"
 date: 2019-10-24T22:23:53+08:00
 draft: false
-toc: true
+toc: false
 tags: 
-  - markdown
+  - untagged
 ---
 
-# 认识 markdown
+# 让我们再瞄一眼 GitHub 上刚才新建的项目
 
-首先：你可以在 https://www.runoob.com/markdown/md-tutorial.html 看到最适合菜鸟的 markdown 教程
+![](/step6/1.png)
 
-markdown 被广泛运用，不只是程序员在使用这个高效工具。
+其实 GitHub 已经给了我们一些提示……
 
-markdown 是高效的，人性化的，几乎没有学习成本。
+不过还是不看它的吧，follow me
 
-Markdown 编写的文档后缀为 `.md`, `.markdown`，一般使用 `.md`
+# 回到本地博客项目，执行 `git init` 命令
+
+![](/step6/2.png)
+
+这样便进行了本地仓库的初始化
 
 ## 特别说明
 
-markdown 只是一个标记语言，如果你想看到样式美观的 markdown 文章需要有特别的工具将它进行翻译。
+这里我并不会特别说明 git 的语法，如果你想要更正规地学习它，可以拜访菜鸟教程 https://www.runoob.com/git/git-basic-operations.html
 
-常见的翻译过程是： markdown => html
+# 再执行 `git add .` 命令
 
-## 让我们看看 md 到底有多高效
+git 的 add 命令用来指明哪些文件需要被提交。
 
-作为示范，让我们先学习一个 md 语法：
+你可以只add单个文件，比如 git add config.toml
 
-语法：# 号标记
+新项目中，添加所有文件很普遍，所以我们使用 `git add .` 命令来添加当前项目的所有文件。
 
-使用 # 号可表示 1-6 级标题，一级标题对应一个 # 号，二级标题对应两个 # 号，以此类推。
+这里的 "." 表示当前文件路径，意思是将当前文件路径下的所有文件都进行 add 操作
 
-```
-# 一级标题
-## 二级标题
-### 三级标题
-#### 四级标题
-##### 五级标题
-###### 六级标题
-```
+因为我们是第一次提交项目，所以我们使用 `git add .`
 
-翻译成 html 后，效果如下：
+# 再执行 `git commit -m "commit message"` 命令
 
-![](https://www.runoob.com/wp-content/uploads/2019/03/md2.gif)
+git 的 commit 命令，记录你的更新旅程。
 
-还记得你在 office word 里是怎么调一级标题、二级标题的吗？在 office word 你需要用一连串的鼠标点击来调整字体大小或者间距，而在 markdown 的世界里，只需要一个 `#` 号。
+它需要 `-m "commit message"` 因为你得用一段话来说明你更新了什么，还是修复了什么。
 
-## 在 markdown 中展示代码
+使用 git add 命令将想要快照的内容写入缓存区， 而执行 git commit 将缓存区内容添加到仓库中。
 
-书写为：
+# 再执行 
 
-<pre>
-&#96;&#96;&#96;c
-#include <stdio.h>
+`git remote add origin https://github.com/{{Username}}/blog.git` 命令
 
-int main(){
-    return 0;
-}
-&#96;&#96;&#96;
-</pre>
+同样的，把这里的 `{{Username}}` 替換為你的用户名。
 
-翻译后，并且由 highlight 程序着色后：
+## 为什么这样做？
 
-```c
-#include <stdio.h>
+我们有了本地仓库，也有了在 GitHub 平台上的远端仓库，那么这两个仓库之间如何联系呢
 
-int main(){
-    return 0;
-}
-```
+所以我们要告诉本地仓库："你的上线是……"
 
-## 我觉得 markdown 的教程实在不用重复总结，所以
+# 最后执行 `git push -u origin master`
 
-还是请你跟随 runoob 的教程来学习： https://www.runoob.com/markdown/md-tutorial.html
+將本地仓库的数据提交到远端仓库
 
-# 在 hugo 中写文章，还需要一些别的功夫
-
-打开我们本地刚刚新建的 blog 文件夹，它其中 
+![](/step6/6.png)
